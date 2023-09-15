@@ -1,0 +1,5 @@
+nNeste projeto foi desenvolvido um jogo de rolagem infinita, cujo o objetivo era evitar que o fantasma encoste nas janelas,este projeto foi desenvolvido em HTML, CSS3, E JAVASCRIPT.
+
+projeto para fins profissionais.
+
+atenciosamente : Francine Hollweg
